@@ -1,3 +1,3 @@
-Treinando o GIT
+Meu segundo sistema Treinando o GIT
 
-Estilização são feitas no style.css
+Alguma nova linha legal
